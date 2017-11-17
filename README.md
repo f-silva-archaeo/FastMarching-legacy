@@ -5,6 +5,7 @@ FABIO SILVA and JAMES STEELE (2012) "Modelling boundaries between converging fro
 
 FABIO SILVA and JAMES STEELE (2014) "New methods for reconstructing geographical effects on dispersal rates and routes from large-scale radiocarbon databases". Journal of Archaeological Science 52: 609-620 DOI: 10.1016/j.jas.2014.04.021
 
+Please cite both papers when using code from this repository.
 
 ## Author of the Repository:
 Fabio Silva (fabio.silva@ucl.ac.uk)
