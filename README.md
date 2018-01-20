@@ -1,5 +1,10 @@
 # Source Codes for the Modified Fast Marching Method of Silva and Steele (2012; 2014)
 
+## Legacy
+This repository is now out of date and no longer maintained.
+Users interested in the Fast Marching Method should instead head over to the fastmaRching package repository(https://github.com/f-silva-archaeo/fastmaRching).
+
+
 ## Paper Reference 
 FABIO SILVA and JAMES STEELE (2012) "Modelling boundaries between converging fronts in prehistory". Advances in Complex Systems 15: 1150005 [21 pages] DOI: 10.1142/S0219525911003293
 
