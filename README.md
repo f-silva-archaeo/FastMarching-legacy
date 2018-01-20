@@ -1,8 +1,7 @@
 # Source Codes for the Modified Fast Marching Method of Silva and Steele (2012; 2014)
 
-## Legacy
-This repository is now out of date and no longer maintained.
-Users interested in the Fast Marching Method should instead head over to the fastmaRching package repository(https://github.com/f-silva-archaeo/fastmaRching).
+## Repository out of date and no longer maintained !!
+Users interested in the Fast Marching Method should instead head over to the fastmaRching package repository: https://github.com/f-silva-archaeo/fastmaRching
 
 
 ## Paper Reference 
